@@ -1,5 +1,7 @@
 # This is a comment.
 # Each line is a file pattern followed by one or more owners.
+*   shogo.kataoka@legalforce.co.jp
+
 manifest/package.xml    @shogo3939
 
 testFile    shogo.kataoka@legalforce.co.jp
