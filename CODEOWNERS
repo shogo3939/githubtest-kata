@@ -2,3 +2,5 @@
 # Each line is a file pattern followed by one or more owners.
 
 /testFile @Saku7777
+
+/force-app/main/default/objects/Opportunity/fields/AnalysisExclusionPlanCheck__c.field-meta.xml Saku7777
